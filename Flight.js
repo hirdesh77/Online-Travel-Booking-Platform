@@ -7,6 +7,7 @@ class Flight extends Component {
     }
   }
 
+  
   render() {
     return (
       <div className="flight-container">
