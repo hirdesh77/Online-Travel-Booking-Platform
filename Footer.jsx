@@ -15,6 +15,7 @@ const Footer = () => {
             Voyawander is the gateway to new horizons, where each step leads to
             a world of wonder waiting to be explored.
           </span>
+          
         </div>
         <div className='socialMedia'>
           <BsInstagram />
