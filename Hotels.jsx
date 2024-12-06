@@ -15,6 +15,7 @@ const Hotels = () => {
             beaches of Bali. we'll take you there.
           </p>
         </div>
+        
       </div>
       <div>
         <img src={map} alt="map" className="hotels-mapImage" />
